@@ -1,0 +1,1026 @@
+{
+  "title": "Báo cáo Thực tập tốt nghiệp - Trường Cao đẳng Y Hà Nội",
+  "author": "",
+  "class": "",
+  "medications": [
+    {
+      "stt": "31",
+      "tên thuốc": "Amoxicillin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Amoxicillin",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "32",
+      "tên thuốc": "Cephalexin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Cephalexin",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "33",
+      "tên thuốc": "Azithromycin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Azithromycin",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "34",
+      "tên thuốc": "Ciprofloxacin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Ciprofloxacin",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "35",
+      "tên thuốc": "Doxycycline",
+      "nồng độ/hàm lượng": "100mg",
+      "hoạt chất": "Doxycycline",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "36",
+      "tên thuốc": "Erythromycin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Erythromycin",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "37",
+      "tên thuốc": "Levofloxacin",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Levofloxacin",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "stt": "25",
+      "tên thuốc": "Fubenzon",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Mebendazole",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "26",
+      "tên thuốc": "Zentel",
+      "nồng độ/hàm lượng": "200mg",
+      "hoạt chất": "Albendazole",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "27",
+      "tên thuốc": "Mitizan",
+      "nồng độ/hàm lượng": "200mg",
+      "hoạt chất": "Albendazole",
+      "dạng bào chế": "Viên nhai",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "28",
+      "tên thuốc": "Azeltel",
+      "nồng độ/hàm lượng": "400mg",
+      "hoạt chất": "Albendazole",
+      "dạng bào chế": "Viên nhai",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "29",
+      "tên thuốc": "Mebendazole",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Mebendazole",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "30",
+      "tên thuốc": "Cotriatriax",
+      "nồng độ/hàm lượng": "400mg",
+      "hoạt chất": "Albendazole",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "stt": "38",
+      "tên thuốc": "Acyclovir",
+      "nồng độ/hàm lượng": "400mg",
+      "hoạt chất": "Acyclovir",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "stt": "39",
+      "tên thuốc": "Anagenon",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Kháng thể gắn bởi Interferon",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Nga",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "stt": "40",
+      "tên thuốc": "Oseltamivir",
+      "nồng độ/hàm lượng": "200mg",
+      "hoạt chất": "Tenofovir disoproxil fumarate",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "stt": "41",
+      "tên thuốc": "Hepbest",
+      "nồng độ/hàm lượng": "25mg",
+      "hoạt chất": "Tenofovir Alafenamide",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Ấn Độ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "stt": "42",
+      "tên thuốc": "Tamiflu",
+      "nồng độ/hàm lượng": "75mg",
+      "hoạt chất": "Oseltamivir",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Ý",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "stt": "7",
+      "tên thuốc": "Kintax",
+      "nồng độ/hàm lượng": "2g",
+      "hoạt chất": "Ketoconazole",
+      "dạng bào chế": "Kem",
+      "xuất xứ": "Thụy Sĩ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "8",
+      "tên thuốc": "Acyclovir Stada",
+      "nồng độ/hàm lượng": "2g",
+      "hoạt chất": "Acyclovir",
+      "dạng bào chế": "Kem",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "9",
+      "tên thuốc": "Biolazon",
+      "nồng độ/hàm lượng": "2g",
+      "hoạt chất": "Ciclopiroxolamine",
+      "dạng bào chế": "Gel",
+      "xuất xứ": "Italia",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "10",
+      "tên thuốc": "Fluopas",
+      "nồng độ/hàm lượng": "10g",
+      "hoạt chất": "Flucinolone acetonide",
+      "dạng bào chế": "Thuốc mỡ",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "11",
+      "tên thuốc": "Gel Desonide 0,05%",
+      "nồng độ/hàm lượng": "15g",
+      "hoạt chất": "Desonide",
+      "dạng bào chế": "Gel",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "12",
+      "tên thuốc": "Bantet",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Betamethasone, Neomycin sulfate",
+      "dạng bào chế": "Kem",
+      "xuất xứ": "Thụy Sĩ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "18",
+      "tên thuốc": "Nizoral Cream",
+      "nồng độ/hàm lượng": "20mg",
+      "hoạt chất": "Ketoconazole",
+      "dạng bào chế": "Tuýp",
+      "xuất xứ": "Janssen",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "19",
+      "tên thuốc": "Fluconazole STADA",
+      "nồng độ/hàm lượng": "150mg",
+      "hoạt chất": "Fluconazole",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "20",
+      "tên thuốc": "Diflucan",
+      "nồng độ/hàm lượng": "150mg",
+      "hoạt chất": "Fluconazole",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Pfizer Italia",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "21",
+      "tên thuốc": "Clotrimazole",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Clotrimazole, Neomycin, Metronidazole",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "22",
+      "tên thuốc": "Silken Cream",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Betamethasone, Clotrimazole, Gentamicin",
+      "dạng bào chế": "Kem bôi",
+      "xuất xứ": "Foxa Pharma",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "23",
+      "tên thuốc": "Cancreem",
+      "nồng độ/hàm lượng": "10mg",
+      "hoạt chất": "Clotrimazole",
+      "dạng bào chế": "Kem bôi",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "24",
+      "tên thuốc": "Vadikoldy",
+      "nồng độ/hàm lượng": "20mg",
+      "hoạt chất": "Miconazole",
+      "dạng bào chế": "Gel bôi",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "stt": "48",
+      "tên thuốc": "Quinine Sulfate",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Quinine Sulfate",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "stt": "49",
+      "tên thuốc": "Mefloquine",
+      "nồng độ/hàm lượng": "250mg",
+      "hoạt chất": "Mefloquine hydrochloride",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "stt": "50",
+      "tên thuốc": "Chloroquine",
+      "nồng độ/hàm lượng": "250mg",
+      "hoạt chất": "Chloroquine phosphate",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "stt": "51",
+      "tên thuốc": "Artemether",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Artemether",
+      "dạng bào chế": "Dung dịch",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "stt": "52",
+      "tên thuốc": "Artesunate",
+      "nồng độ/hàm lượng": "60mg",
+      "hoạt chất": "Artesunate",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "stt": "75",
+      "tên thuốc": "Fluoxetine",
+      "nồng độ/hàm lượng": "20mg",
+      "hoạt chất": "Fluoxetine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "stt": "76",
+      "tên thuốc": "Prednisolone",
+      "nồng độ/hàm lượng": "0,5mg",
+      "hoạt chất": "Prednisolone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "stt": "77",
+      "tên thuốc": "Dexamethasone",
+      "nồng độ/hàm lượng": "0,5mg",
+      "hoạt chất": "Dexamethasone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "stt": "78",
+      "tên thuốc": "Hydrocortisone",
+      "nồng độ/hàm lượng": "10mg",
+      "hoạt chất": "Hydrocortisone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "stt": "79",
+      "tên thuốc": "Betamethasone",
+      "nồng độ/hàm lượng": "0,5mg",
+      "hoạt chất": "Betamethasone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đan Mạch",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "stt": "13",
+      "tên thuốc": "Nexospiron",
+      "nồng độ/hàm lượng": "50mg",
+      "hoạt chất": "Spironolactone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Hungary",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "stt": "14",
+      "tên thuốc": "Furosemide",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Furosemide",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "stt": "15",
+      "tên thuốc": "Furosemide",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Furosemide",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Pakistan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "stt": "16",
+      "tên thuốc": "Thiazides",
+      "nồng độ/hàm lượng": "25mg",
+      "hoạt chất": "Hydrochlorothiazide",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "stt": "17",
+      "tên thuốc": "Domeven",
+      "nồng độ/hàm lượng": "25mg",
+      "hoạt chất": "Spironolactone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "stt": "43",
+      "tên thuốc": "Yumagel",
+      "nồng độ/hàm lượng": "15ml",
+      "hoạt chất": "Almagate",
+      "dạng bào chế": "Hỗn dịch",
+      "xuất xứ": "Tây Ban Nha",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "44",
+      "tên thuốc": "Phosphalugel",
+      "nồng độ/hàm lượng": "20g",
+      "hoạt chất": "Aluminium phosphate",
+      "dạng bào chế": "Hỗn dịch",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "45",
+      "tên thuốc": "Yumagel F",
+      "nồng độ/hàm lượng": "15ml",
+      "hoạt chất": "Almagate",
+      "dạng bào chế": "Hỗn dịch",
+      "xuất xứ": "Tây Ban Nha",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "46",
+      "tên thuốc": "Mepraz",
+      "nồng độ/hàm lượng": "20mg",
+      "hoạt chất": "Omeprazole",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "47",
+      "tên thuốc": "Cimetidine",
+      "nồng độ/hàm lượng": "300mg",
+      "hoạt chất": "Cimetidine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "80",
+      "tên thuốc": "Drotaverine",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Drotaverine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "81",
+      "tên thuốc": "Hyoscine",
+      "nồng độ/hàm lượng": "10mg",
+      "hoạt chất": "Hyoscine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "82",
+      "tên thuốc": "Papaverine",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Papaverine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "83",
+      "tên thuốc": "Alverine",
+      "nồng độ/hàm lượng": "60mg",
+      "hoạt chất": "Alverine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "84",
+      "tên thuốc": "Mebeverine",
+      "nồng độ/hàm lượng": "135mg",
+      "hoạt chất": "Mebeverine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "85",
+      "tên thuốc": "Ambroxol",
+      "nồng độ/hàm lượng": "30mg",
+      "hoạt chất": "Ambroxol",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "86",
+      "tên thuốc": "Bromhexine",
+      "nồng độ/hàm lượng": "8mg",
+      "hoạt chất": "Bromhexine",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "61",
+      "tên thuốc": "Maalox",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Magnesium 400mg, Aluminum 400mg",
+      "dạng bào chế": "Viên nhai",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "62",
+      "tên thuốc": "Gastropulgite",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Attapulgite 2,5g, Aluminum 0,5g",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "63",
+      "tên thuốc": "Phosphalugel",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Aluminum phosphate 12,38g",
+      "dạng bào chế": "Gel",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "64",
+      "tên thuốc": "Tums",
+      "nồng độ/hàm lượng": "500mg",
+      "hoạt chất": "Calcium carbonate",
+      "dạng bào chế": "Viên nhai",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "65",
+      "tên thuốc": "Gaviscon",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Sodium alginate 500mg, Sodium bicarbonate 267mg",
+      "dạng bào chế": "Hỗn dịch",
+      "xuất xứ": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "53",
+      "tên thuốc": "Forlax",
+      "nồng độ/hàm lượng": "10g",
+      "hoạt chất": "Macrogol 4000",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "54",
+      "tên thuốc": "Duphalac",
+      "nồng độ/hàm lượng": "667g",
+      "hoạt chất": "Lactulose",
+      "dạng bào chế": "Dung dịch",
+      "xuất xứ": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "55",
+      "tên thuốc": "Bisacodyl",
+      "nồng độ/hàm lượng": "5mg",
+      "hoạt chất": "Bisacodyl",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "56",
+      "tên thuốc": "Smecta",
+      "nồng độ/hàm lượng": "3g",
+      "hoạt chất": "Diosmectite 3g",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "57",
+      "tên thuốc": "Hidrasec",
+      "nồng độ/hàm lượng": "30mg",
+      "hoạt chất": "Racecadotril",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "58",
+      "tên thuốc": "Lactobacillus",
+      "nồng độ/hàm lượng": "1g",
+      "hoạt chất": "Lactobacillus Acidophilus",
+      "dạng bào chế": "Bột",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "59",
+      "tên thuốc": "Loperamid Admixpharm",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Loperamide hydrochloride",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "60",
+      "tên thuốc": "Smecta Go",
+      "nồng độ/hàm lượng": "3g",
+      "hoạt chất": "Diosmectite",
+      "dạng bào chế": "Hỗn dịch",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "stt": "87",
+      "tên thuốc": "Diazepam",
+      "nồng độ/hàm lượng": "5mg",
+      "hoạt chất": "Diazepam",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "stt": "88",
+      "tên thuốc": "Lorazepam",
+      "nồng độ/hàm lượng": "1mg",
+      "hoạt chất": "Lorazepam",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "stt": "89",
+      "tên thuốc": "Zolpidem",
+      "nồng độ/hàm lượng": "10mg",
+      "hoạt chất": "Zolpidem",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "stt": "90",
+      "tên thuốc": "Clonazepam",
+      "nồng độ/hàm lượng": "2mg",
+      "hoạt chất": "Clonazepam",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "stt": "91",
+      "tên thuốc": "Midazolam",
+      "nồng độ/hàm lượng": "7,5mg",
+      "hoạt chất": "Midazolam",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "stt": "92",
+      "tên thuốc": "Amiodarone",
+      "nồng độ/hàm lượng": "100mg",
+      "hoạt chất": "Amiodarone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "stt": "93",
+      "tên thuốc": "Lidocaine",
+      "nồng độ/hàm lượng": "2%",
+      "hoạt chất": "Lidocaine",
+      "dạng bào chế": "Dung dịch",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "stt": "94",
+      "tên thuốc": "Flecainide",
+      "nồng độ/hàm lượng": "100mg",
+      "hoạt chất": "Flecainide",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "stt": "95",
+      "tên thuốc": "Sotalol",
+      "nồng độ/hàm lượng": "80mg",
+      "hoạt chất": "Sotalol",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "stt": "96",
+      "tên thuốc": "Propafenone",
+      "nồng độ/hàm lượng": "150mg",
+      "hoạt chất": "Propafenone",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "stt": "97",
+      "tên thuốc": "Alendronate",
+      "nồng độ/hàm lượng": "70mg",
+      "hoạt chất": "Alendronate",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "98",
+      "tên thuốc": "Risedronate",
+      "nồng độ/hàm lượng": "35mg",
+      "hoạt chất": "Risedronate",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "70",
+      "tên thuốc": "Diane-35",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Cyproterone acetate 2mg, Ethinylestradiol 0,035mg",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "71",
+      "tên thuốc": "Duphaston",
+      "nồng độ/hàm lượng": "10mg",
+      "hoạt chất": "Dydrogesterone 10mg",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "72",
+      "tên thuốc": "Orgametril",
+      "nồng độ/hàm lượng": "5mg",
+      "hoạt chất": "Lynestrenol",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "73",
+      "tên thuốc": "Le Ana Cream",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Tinh dầu hoa anh thảo, vỏ mã nhân sâm, tinh mềm nụ chân ấu, Vitamin E",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "74",
+      "tên thuốc": "Macca F",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Chiết xuất bổ dưỡng Macca cao, thảo dược tự nhiên",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "stt": "1",
+      "tên thuốc": "Long huyết P/H",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Cao khô huyết",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "stt": "2",
+      "tên thuốc": "Mộc hoa trang H",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Mộc hoa trang, Berberine",
+      "dạng bào chế": "Viên nén, bao phim",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "stt": "3",
+      "tên thuốc": "Ampelop",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Chè dây",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "stt": "4",
+      "tên thuốc": "Parafon",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Paracetamol",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "stt": "5",
+      "tên thuốc": "Tobonin",
+      "nồng độ/hàm lượng": "40mg",
+      "hoạt chất": "Ginkgo biloba",
+      "dạng bào chế": "Viên nén",
+      "xuất xứ": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "stt": "6",
+      "tên thuốc": "Tuần hoàn não Thái Dương",
+      "nồng độ/hàm lượng": "",
+      "hoạt chất": "Đan sâm lá móc, bách quả, đinh lăng",
+      "dạng bào chế": "Viên nang",
+      "xuất xứ": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    }
+  ],
+  "functional_foods": [
+    {
+      "stt": "1",
+      "tên tpcn": "Centrum Adults",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 100v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "2",
+      "tên tpcn": "Blackmores Fish Oil 1000",
+      "dạng": "Viên nang mềm",
+      "quy cách đóng gói": "Lọ 100v",
+      "nsx": "Úc"
+    },
+    {
+      "stt": "3",
+      "tên tpcn": "Nature Made Calcium",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 300v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "4",
+      "tên tpcn": "Kirkland Signature VTM C 1000mg",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 500v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "5",
+      "tên tpcn": "Puritan's Pride Triple Strength Omega-3",
+      "dạng": "Viên nang mềm",
+      "quy cách đóng gói": "Lọ 120v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "6",
+      "tên tpcn": "DHC Collagen",
+      "dạng": "Viên nang",
+      "quy cách đóng gói": "Túi 360v",
+      "nsx": "Nhật"
+    },
+    {
+      "stt": "7",
+      "tên tpcn": "Healthy Care Propolis 2000mg",
+      "dạng": "Viên nang mềm",
+      "quy cách đóng gói": "Lọ 200v",
+      "nsx": "Úc"
+    },
+    {
+      "stt": "8",
+      "tên tpcn": "Swisse Liver Detox",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 120v",
+      "nsx": "Úc"
+    },
+    {
+      "stt": "9",
+      "tên tpcn": "Natrol Biotin 10000mg",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 100v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "10",
+      "tên tpcn": "New Zinc 50mg",
+      "dạng": "Viên nén",
+      "quy cách đóng gói": "Lọ 100v",
+      "nsx": "Hoa Kỳ"
+    },
+    {
+      "stt": "11",
+      "tên tpcn": "Alpha Biotic for Women Happy Life",
+      "dạng": "Viên nang",
+      "quy cách đóng gói": "Hộp",
+      "nsx": "Việt Nam"
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "title": "Báo cáo Thực tập tốt nghiệp - Trường Cao đẳng Y Hà Nội",
+  "author": "",
+  "class": "",
+  "medications": [
+    {
+      "id": "31",
+      "name": "Amoxicillin",
+      "concentration": "500mg",
+      "active_ingredient": "Amoxicillin",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "32",
+      "name": "Cephalexin",
+      "concentration": "500mg",
+      "active_ingredient": "Cephalexin",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "33",
+      "name": "Azithromycin",
+      "concentration": "500mg",
+      "active_ingredient": "Azithromycin",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "34",
+      "name": "Ciprofloxacin",
+      "concentration": "500mg",
+      "active_ingredient": "Ciprofloxacin",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "35",
+      "name": "Doxycycline",
+      "concentration": "100mg",
+      "active_ingredient": "Doxycycline",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "36",
+      "name": "Erythromycin",
+      "concentration": "500mg",
+      "active_ingredient": "Erythromycin",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "37",
+      "name": "Levofloxacin",
+      "concentration": "500mg",
+      "active_ingredient": "Levofloxacin",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "1. Thuốc kháng sinh và kháng khuẩn"
+    },
+    {
+      "id": "25",
+      "name": "Fubenzon",
+      "concentration": "500mg",
+      "active_ingredient": "Mebendazole",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "26",
+      "name": "Zentel",
+      "concentration": "200mg",
+      "active_ingredient": "Albendazole",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "27",
+      "name": "Mitizan",
+      "concentration": "200mg",
+      "active_ingredient": "Albendazole",
+      "dosage_form": "Viên nhai",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "28",
+      "name": "Azeltel",
+      "concentration": "400mg",
+      "active_ingredient": "Albendazole",
+      "dosage_form": "Viên nhai",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "29",
+      "name": "Mebendazole",
+      "concentration": "500mg",
+      "active_ingredient": "Mebendazole",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "30",
+      "name": "Cotriatriax",
+      "concentration": "400mg",
+      "active_ingredient": "Albendazole",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "2. Thuốc kháng ký sinh trùng"
+    },
+    {
+      "id": "38",
+      "name": "Acyclovir",
+      "concentration": "400mg",
+      "active_ingredient": "Acyclovir",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "id": "39",
+      "name": "Anagenon",
+      "concentration": "",
+      "active_ingredient": "Kháng thể gắn bởi Interferon",
+      "dosage_form": "Viên nén",
+      "origin": "Nga",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "id": "40",
+      "name": "Oseltamivir",
+      "concentration": "200mg",
+      "active_ingredient": "Tenofovir disoproxil fumarate",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "id": "41",
+      "name": "Hepbest",
+      "concentration": "25mg",
+      "active_ingredient": "Tenofovir Alafenamide",
+      "dosage_form": "Viên nén",
+      "origin": "Ấn Độ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "id": "42",
+      "name": "Tamiflu",
+      "concentration": "75mg",
+      "active_ingredient": "Oseltamivir",
+      "dosage_form": "Viên nang",
+      "origin": "Ý",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "3. Thuốc kháng virus"
+    },
+    {
+      "id": "7",
+      "name": "Kintax",
+      "concentration": "2g",
+      "active_ingredient": "Ketoconazole",
+      "dosage_form": "Kem",
+      "origin": "Thụy Sĩ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "8",
+      "name": "Acyclovir Stada",
+      "concentration": "2g",
+      "active_ingredient": "Acyclovir",
+      "dosage_form": "Kem",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "9",
+      "name": "Biolazon",
+      "concentration": "2g",
+      "active_ingredient": "Ciclopiroxolamine",
+      "dosage_form": "Gel",
+      "origin": "Italia",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "10",
+      "name": "Fluopas",
+      "concentration": "10g",
+      "active_ingredient": "Flucinolone acetonide",
+      "dosage_form": "Thuốc mỡ",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "11",
+      "name": "Gel Desonide 0,05%",
+      "concentration": "15g",
+      "active_ingredient": "Desonide",
+      "dosage_form": "Gel",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "12",
+      "name": "Bantet",
+      "concentration": "",
+      "active_ingredient": "Betamethasone, Neomycin sulfate",
+      "dosage_form": "Kem",
+      "origin": "Thụy Sĩ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "18",
+      "name": "Nizoral Cream",
+      "concentration": "20mg",
+      "active_ingredient": "Ketoconazole",
+      "dosage_form": "Tuýp",
+      "origin": "Janssen",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "19",
+      "name": "Fluconazole STADA",
+      "concentration": "150mg",
+      "active_ingredient": "Fluconazole",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "20",
+      "name": "Diflucan",
+      "concentration": "150mg",
+      "active_ingredient": "Fluconazole",
+      "dosage_form": "Viên nang",
+      "origin": "Pfizer Italia",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "21",
+      "name": "Clotrimazole",
+      "concentration": "500mg",
+      "active_ingredient": "Clotrimazole, Neomycin, Metronidazole",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "22",
+      "name": "Silken Cream",
+      "concentration": "",
+      "active_ingredient": "Betamethasone, Clotrimazole, Gentamicin",
+      "dosage_form": "Kem bôi",
+      "origin": "Foxa Pharma",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "23",
+      "name": "Cancreem",
+      "concentration": "10mg",
+      "active_ingredient": "Clotrimazole",
+      "dosage_form": "Kem bôi",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "24",
+      "name": "Vadikoldy",
+      "concentration": "20mg",
+      "active_ingredient": "Miconazole",
+      "dosage_form": "Gel bôi",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "4. Thuốc kháng nấm"
+    },
+    {
+      "id": "48",
+      "name": "Quinine Sulfate",
+      "concentration": "500mg",
+      "active_ingredient": "Quinine Sulfate",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "id": "49",
+      "name": "Mefloquine",
+      "concentration": "250mg",
+      "active_ingredient": "Mefloquine hydrochloride",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "id": "50",
+      "name": "Chloroquine",
+      "concentration": "250mg",
+      "active_ingredient": "Chloroquine phosphate",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "id": "51",
+      "name": "Artemether",
+      "concentration": "40mg",
+      "active_ingredient": "Artemether",
+      "dosage_form": "Dung dịch",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "id": "52",
+      "name": "Artesunate",
+      "concentration": "60mg",
+      "active_ingredient": "Artesunate",
+      "dosage_form": "Bột",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "5. Thuốc chống sốt rét và bội nhiễm"
+    },
+    {
+      "id": "75",
+      "name": "Fluoxetine",
+      "concentration": "20mg",
+      "active_ingredient": "Fluoxetine",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "id": "76",
+      "name": "Prednisolone",
+      "concentration": "0,5mg",
+      "active_ingredient": "Prednisolone",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "id": "77",
+      "name": "Dexamethasone",
+      "concentration": "0,5mg",
+      "active_ingredient": "Dexamethasone",
+      "dosage_form": "Viên nén",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "id": "78",
+      "name": "Hydrocortisone",
+      "concentration": "10mg",
+      "active_ingredient": "Hydrocortisone",
+      "dosage_form": "Viên nén",
+      "origin": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "id": "79",
+      "name": "Betamethasone",
+      "concentration": "0,5mg",
+      "active_ingredient": "Betamethasone",
+      "dosage_form": "Viên nén",
+      "origin": "Đan Mạch",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "6. Thuốc chống viêm corticosteroid"
+    },
+    {
+      "id": "13",
+      "name": "Nexospiron",
+      "concentration": "50mg",
+      "active_ingredient": "Spironolactone",
+      "dosage_form": "Viên nén",
+      "origin": "Hungary",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "id": "14",
+      "name": "Furosemide",
+      "concentration": "40mg",
+      "active_ingredient": "Furosemide",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "id": "15",
+      "name": "Furosemide",
+      "concentration": "40mg",
+      "active_ingredient": "Furosemide",
+      "dosage_form": "Viên nén",
+      "origin": "Pakistan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "id": "16",
+      "name": "Thiazides",
+      "concentration": "25mg",
+      "active_ingredient": "Hydrochlorothiazide",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "id": "17",
+      "name": "Domeven",
+      "concentration": "25mg",
+      "active_ingredient": "Spironolactone",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "7. Thuốc lợi tiểu"
+    },
+    {
+      "id": "43",
+      "name": "Yumagel",
+      "concentration": "15ml",
+      "active_ingredient": "Almagate",
+      "dosage_form": "Hỗn dịch",
+      "origin": "Tây Ban Nha",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "44",
+      "name": "Phosphalugel",
+      "concentration": "20g",
+      "active_ingredient": "Aluminium phosphate",
+      "dosage_form": "Hỗn dịch",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "45",
+      "name": "Yumagel F",
+      "concentration": "15ml",
+      "active_ingredient": "Almagate",
+      "dosage_form": "Hỗn dịch",
+      "origin": "Tây Ban Nha",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "46",
+      "name": "Mepraz",
+      "concentration": "20mg",
+      "active_ingredient": "Omeprazole",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "47",
+      "name": "Cimetidine",
+      "concentration": "300mg",
+      "active_ingredient": "Cimetidine",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "80",
+      "name": "Drotaverine",
+      "concentration": "40mg",
+      "active_ingredient": "Drotaverine",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "81",
+      "name": "Hyoscine",
+      "concentration": "10mg",
+      "active_ingredient": "Hyoscine",
+      "dosage_form": "Viên nén",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "82",
+      "name": "Papaverine",
+      "concentration": "40mg",
+      "active_ingredient": "Papaverine",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "83",
+      "name": "Alverine",
+      "concentration": "60mg",
+      "active_ingredient": "Alverine",
+      "dosage_form": "Viên nén",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "84",
+      "name": "Mebeverine",
+      "concentration": "135mg",
+      "active_ingredient": "Mebeverine",
+      "dosage_form": "Viên nén",
+      "origin": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "85",
+      "name": "Ambroxol",
+      "concentration": "30mg",
+      "active_ingredient": "Ambroxol",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "86",
+      "name": "Bromhexine",
+      "concentration": "8mg",
+      "active_ingredient": "Bromhexine",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "61",
+      "name": "Maalox",
+      "concentration": "",
+      "active_ingredient": "Magnesium 400mg, Aluminum 400mg",
+      "dosage_form": "Viên nhai",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "62",
+      "name": "Gastropulgite",
+      "concentration": "",
+      "active_ingredient": "Attapulgite 2,5g, Aluminum 0,5g",
+      "dosage_form": "Bột",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "63",
+      "name": "Phosphalugel",
+      "concentration": "",
+      "active_ingredient": "Aluminum phosphate 12,38g",
+      "dosage_form": "Gel",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "64",
+      "name": "Tums",
+      "concentration": "500mg",
+      "active_ingredient": "Calcium carbonate",
+      "dosage_form": "Viên nhai",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "65",
+      "name": "Gaviscon",
+      "concentration": "",
+      "active_ingredient": "Sodium alginate 500mg, Sodium bicarbonate 267mg",
+      "dosage_form": "Hỗn dịch",
+      "origin": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "53",
+      "name": "Forlax",
+      "concentration": "10g",
+      "active_ingredient": "Macrogol 4000",
+      "dosage_form": "Bột",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "54",
+      "name": "Duphalac",
+      "concentration": "667g",
+      "active_ingredient": "Lactulose",
+      "dosage_form": "Dung dịch",
+      "origin": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "55",
+      "name": "Bisacodyl",
+      "concentration": "5mg",
+      "active_ingredient": "Bisacodyl",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "56",
+      "name": "Smecta",
+      "concentration": "3g",
+      "active_ingredient": "Diosmectite 3g",
+      "dosage_form": "Bột",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "57",
+      "name": "Hidrasec",
+      "concentration": "30mg",
+      "active_ingredient": "Racecadotril",
+      "dosage_form": "Bột",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "58",
+      "name": "Lactobacillus",
+      "concentration": "1g",
+      "active_ingredient": "Lactobacillus Acidophilus",
+      "dosage_form": "Bột",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "59",
+      "name": "Loperamid Admixpharm",
+      "concentration": "",
+      "active_ingredient": "Loperamide hydrochloride",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "60",
+      "name": "Smecta Go",
+      "concentration": "3g",
+      "active_ingredient": "Diosmectite",
+      "dosage_form": "Hỗn dịch",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "8. Thuốc tiêu hóa"
+    },
+    {
+      "id": "87",
+      "name": "Diazepam",
+      "concentration": "5mg",
+      "active_ingredient": "Diazepam",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "id": "88",
+      "name": "Lorazepam",
+      "concentration": "1mg",
+      "active_ingredient": "Lorazepam",
+      "dosage_form": "Viên nén",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "id": "89",
+      "name": "Zolpidem",
+      "concentration": "10mg",
+      "active_ingredient": "Zolpidem",
+      "dosage_form": "Viên nén",
+      "origin": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "id": "90",
+      "name": "Clonazepam",
+      "concentration": "2mg",
+      "active_ingredient": "Clonazepam",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "id": "91",
+      "name": "Midazolam",
+      "concentration": "7,5mg",
+      "active_ingredient": "Midazolam",
+      "dosage_form": "Viên nén",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "9. Thuốc tác động hệ thần kinh"
+    },
+    {
+      "id": "92",
+      "name": "Amiodarone",
+      "concentration": "100mg",
+      "active_ingredient": "Amiodarone",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "id": "93",
+      "name": "Lidocaine",
+      "concentration": "2%",
+      "active_ingredient": "Lidocaine",
+      "dosage_form": "Dung dịch",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "id": "94",
+      "name": "Flecainide",
+      "concentration": "100mg",
+      "active_ingredient": "Flecainide",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "id": "95",
+      "name": "Sotalol",
+      "concentration": "80mg",
+      "active_ingredient": "Sotalol",
+      "dosage_form": "Viên nén",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "id": "96",
+      "name": "Propafenone",
+      "concentration": "150mg",
+      "active_ingredient": "Propafenone",
+      "dosage_form": "Viên nén",
+      "origin": "Anh",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "10. Thuốc tim mạch"
+    },
+    {
+      "id": "97",
+      "name": "Alendronate",
+      "concentration": "70mg",
+      "active_ingredient": "Alendronate",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "98",
+      "name": "Risedronate",
+      "concentration": "35mg",
+      "active_ingredient": "Risedronate",
+      "dosage_form": "Viên nén",
+      "origin": "Mỹ",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "70",
+      "name": "Diane-35",
+      "concentration": "",
+      "active_ingredient": "Cyproterone acetate 2mg, Ethinylestradiol 0,035mg",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "71",
+      "name": "Duphaston",
+      "concentration": "10mg",
+      "active_ingredient": "Dydrogesterone 10mg",
+      "dosage_form": "Viên nén",
+      "origin": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "72",
+      "name": "Orgametril",
+      "concentration": "5mg",
+      "active_ingredient": "Lynestrenol",
+      "dosage_form": "Viên nén",
+      "origin": "Hà Lan",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "73",
+      "name": "Le Ana Cream",
+      "concentration": "",
+      "active_ingredient": "Tinh dầu hoa anh thảo, vỏ mã nhân sâm, tinh mềm nụ chân ấu, Vitamin E",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "74",
+      "name": "Macca F",
+      "concentration": "",
+      "active_ingredient": "Chiết xuất bổ dưỡng Macca cao, thảo dược tự nhiên",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "11. Thuốc nội tiết và chuyển hóa"
+    },
+    {
+      "id": "1",
+      "name": "Long huyết P/H",
+      "concentration": "",
+      "active_ingredient": "Cao khô huyết",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "id": "2",
+      "name": "Mộc hoa trang H",
+      "concentration": "",
+      "active_ingredient": "Mộc hoa trang, Berberine",
+      "dosage_form": "Viên nén, bao phim",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "id": "3",
+      "name": "Ampelop",
+      "concentration": "",
+      "active_ingredient": "Chè dây",
+      "dosage_form": "Viên nén",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "id": "4",
+      "name": "Parafon",
+      "concentration": "",
+      "active_ingredient": "Paracetamol",
+      "dosage_form": "Viên nén",
+      "origin": "Pháp",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "id": "5",
+      "name": "Tobonin",
+      "concentration": "40mg",
+      "active_ingredient": "Ginkgo biloba",
+      "dosage_form": "Viên nén",
+      "origin": "Đức",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    },
+    {
+      "id": "6",
+      "name": "Tuần hoàn não Thái Dương",
+      "concentration": "",
+      "active_ingredient": "Đan sâm lá móc, bách quả, đinh lăng",
+      "dosage_form": "Viên nang",
+      "origin": "Việt Nam",
+      "category": "Danh mục thuốc theo nhóm tác dụng",
+      "subcategory": "12. Thuốc thảo dược"
+    }
+  ],
+  "functional_foods": [
+    {
+      "id": "1",
+      "name": "Centrum Adults",
+      "form": "Viên nén",
+      "packaging": "Lọ 100v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "2",
+      "name": "Blackmores Fish Oil 1000",
+      "form": "Viên nang mềm",
+      "packaging": "Lọ 100v",
+      "manufacturer": "Úc"
+    },
+    {
+      "id": "3",
+      "name": "Nature Made Calcium",
+      "form": "Viên nén",
+      "packaging": "Lọ 300v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "4",
+      "name": "Kirkland Signature VTM C 1000mg",
+      "form": "Viên nén",
+      "packaging": "Lọ 500v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "5",
+      "name": "Puritan's Pride Triple Strength Omega-3",
+      "form": "Viên nang mềm",
+      "packaging": "Lọ 120v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "6",
+      "name": "DHC Collagen",
+      "form": "Viên nang",
+      "packaging": "Túi 360v",
+      "manufacturer": "Nhật"
+    },
+    {
+      "id": "7",
+      "name": "Healthy Care Propolis 2000mg",
+      "form": "Viên nang mềm",
+      "packaging": "Lọ 200v",
+      "manufacturer": "Úc"
+    },
+    {
+      "id": "8",
+      "name": "Swisse Liver Detox",
+      "form": "Viên nén",
+      "packaging": "Lọ 120v",
+      "manufacturer": "Úc"
+    },
+    {
+      "id": "9",
+      "name": "Natrol Biotin 10000mg",
+      "form": "Viên nén",
+      "packaging": "Lọ 100v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "10",
+      "name": "New Zinc 50mg",
+      "form": "Viên nén",
+      "packaging": "Lọ 100v",
+      "manufacturer": "Hoa Kỳ"
+    },
+    {
+      "id": "11",
+      "name": "Alpha Biotic for Women Happy Life",
+      "form": "Viên nang",
+      "packaging": "Hộp",
+      "manufacturer": "Việt Nam"
+    }
+  ]
+}

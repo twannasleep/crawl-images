@@ -1,0 +1,1036 @@
+[
+  {
+    "medication": "Amoxicillin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1604_5cee949270.jpg",
+      "alt": "Thuốc Amoxicillin 500mg Domesco điều trị nhiễm khuẩn (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Cephalexin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00022348_cephalexin_500mg_ha_tay_10x10_3686_609c_large_27ab8c5827.jpg",
+      "alt": "Thuốc Cephalexin 500mg Hà Tây điều trị nhiễm khuẩn (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Azithromycin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00010178_azithromycin_100_6271_60f0_large_ef304a5872.jpg",
+      "alt": "Bột Azithromycin 100 DHG điều trị nhiễm khuẩn (24 gói)"
+    }
+  },
+  {
+    "medication": "Ciprofloxacin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031360_ciprofloxacin_500mg_stada_10x10_4847_6176_large_ff8580f2c4.jpg",
+      "alt": "Thuốc Ciprofloxacin Stada 500mg điều trị trong các trường hợp nhiễm khuẩn (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Doxycycline",
+    "concentration": "100mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00020067_doxycycline_100mg_brawn_10x10_2097_60af_large_24066ff1dd.jpg",
+      "alt": "Thuốc Doxycycline 100mg Brawn điều trị bệnh Brucella, bệnh tả (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Erythromycin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002849_erythromycin_500mg_6756_60a7_large_005983a4b9.jpg",
+      "alt": "Thuốc Erythromycin 500mg Vidipha điều trị nhiễm khuẩn (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Levofloxacin",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "1. Thuốc kháng sinh và kháng khuẩn",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00028076_levofloxacin_500mg_imexpharm_1x10_4281_6128_large_b09ef797ea.jpg",
+      "alt": "Thuốc Levofloxacin 500mg Imexpharm điều trị viêm phổi, viêm tuyến tiền liệt, viêm thận (1 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Fubenzon",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021597_fubenzon_500mg_dhg_1x1_1858_60ab_large_6e091e5854.jpg",
+      "alt": "Thuốc Fubenzon 500mg DHG điều trị nhiễm một hay nhiều loại giun (1 viên)"
+    }
+  },
+  {
+    "medication": "Zentel",
+    "concentration": "200mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_2840_a5cb2db5ef.jpg",
+      "alt": "Thuốc Zentel Albendazole 200mg GSK điều trị các loại giun đường ruột nhạy cảm (1 vỉ x 2 viên)"
+    }
+  },
+  {
+    "medication": "Mitizan",
+    "concentration": "200mg",
+    "dosage_form": "Viên nhai",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00009548_queitoz_200_1729_5b6a_large_69ed3af350.JPG",
+      "alt": "Thuốc Queitoz-200 Davipharm điều trị tâm thần phân liệt (4 vỉ x 7 viên)"
+    }
+  },
+  {
+    "medication": "Azeltel",
+    "concentration": "400mg",
+    "dosage_form": "Viên nhai",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031514_azoltel_400mg_stella_1x1_3483_62a7_large_f2013dfb51.jpg",
+      "alt": "Thuốc Azoltel 400mg Stella điều trị nhiễm một hoặc nhiều loại ký sinh trùng đường ruột (1 viên)"
+    }
+  },
+  {
+    "medication": "Mebendazole",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1152_8d773a77b6.jpg",
+      "alt": "Viên nén Mebendazole 500mg Mekophar điều trị nhiễm một hay nhiều loại giun (1 viên)"
+    }
+  },
+  {
+    "medication": "Cotriatriax",
+    "concentration": "400mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "2. Thuốc kháng ký sinh trùng",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00029147_supertrim_400mg_agimexpharm_30_goi_x_16g_2273_609d_large_485f11969d.png",
+      "alt": "Thuốc bột uống Supertrim 1.6g Agimexpharm điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm (30 gói)"
+    }
+  },
+  {
+    "medication": "Acyclovir",
+    "concentration": "400mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "3. Thuốc kháng virus",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00000517_acyclovir_stada_400_mg_2280_61dd_large_4fae32286c.jpg",
+      "alt": "Thuốc Acyclovir Stella 400mg điều trị nhiễm Herpes simplex, Herpes zoster, thủy đậu (7 vỉ x 5 viên)"
+    }
+  },
+  {
+    "medication": "Anagenon",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "3. Thuốc kháng virus",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00000524_adagrin_50mg_7868_60a7_large_55815ea45f.jpg",
+      "alt": "Thuốc Adagrin 50mg điều trị rối loạn cương dương (1 vỉ x 3 viên)"
+    }
+  },
+  {
+    "medication": "Oseltamivir",
+    "concentration": "200mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "3. Thuốc kháng virus",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/Untitled_1_9a4120730a.jpg",
+      "alt": "Thuốc Acyclovir Stella 200mg điều trị nhiễm Herpes simplex, Varicella zoster (5 vỉ x 5 viên)"
+    }
+  },
+  {
+    "medication": "Hepbest",
+    "concentration": "25mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "3. Thuốc kháng virus",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021114_hepbest_25mg_mylan_30v_6114_5d03_large_3a3fa18e27.JPG",
+      "alt": "Thuốc Hepbest 25mg điều trị nhiễm virus viêm gan B mạn tính (30 viên)"
+    }
+  },
+  {
+    "medication": "Tamiflu",
+    "concentration": "75mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "3. Thuốc kháng virus",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00022455_tamiflu_75mg_roche_10v_5652_60ee_large_9b67df99ce.jpg",
+      "alt": "Thuốc Tamiflu Roche điều trị bệnh cúm (1 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Kintax",
+    "concentration": "2g",
+    "dosage_form": "Kem",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_4678_7ce602f94f.jpg",
+      "alt": "Kem bôi da Kentax Detapharm điều trị lác, lang ben, lác biếng, nấm kẽ (5g)"
+    }
+  },
+  {
+    "medication": "Acyclovir Stada",
+    "concentration": "2g",
+    "dosage_form": "Kem",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_4475_fd36ad8ae0.jpg",
+      "alt": "Kem bôi da Acyclovir Stada Cream điều trị nhiễm virus Herpes simplex (2g)"
+    }
+  },
+  {
+    "medication": "Biolazon",
+    "concentration": "2g",
+    "dosage_form": "Gel",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00029866_gel_lam_lanh_starbalm_cold_gel_25ml_5702_62ae_large_85d651f2a3.JPG",
+      "alt": "Gel Starbalm Cold Gel có tác dụng làm mát và ngăn ngừa chấn thương thể thao (25ml)"
+    }
+  },
+  {
+    "medication": "Fluopas",
+    "concentration": "10g",
+    "dosage_form": "Thuốc mỡ",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021144_fluopas_0025_quang_binh_10g_1362_60a1_large_e13fa7f1d2.png",
+      "alt": "Thuốc mỡ bôi da Fluopas giảm triệu chứng viêm, ngứa của các bệnh ngoài da (10g)"
+    }
+  },
+  {
+    "medication": "Gel Desonide 0,05%",
+    "concentration": "15g",
+    "dosage_form": "Gel",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503290_ff6a359c26.jpg",
+      "alt": "Gel Desonide 0,05% Vcp điều trị viêm da cơ địa từ nhẹ đến trung bình (15g)"
+    }
+  },
+  {
+    "medication": "Bantet",
+    "concentration": "",
+    "dosage_form": "Kem",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021462_bantet_cream_5mg_biolabs_15g_3775_60c6_large_8fdc57701c.jpg",
+      "alt": "Thuốc kem Bantet Cream 5mg Bio-Labs điều trị bệnh ngoài da (15g)"
+    }
+  },
+  {
+    "medication": "Nizoral Cream",
+    "concentration": "20mg",
+    "dosage_form": "Tuýp",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_09303_c64524033d.jpg",
+      "alt": "Kem Nizoral Jassen 20mg/g điều trị nhiễm nấm ngoài da (15g) "
+    }
+  },
+  {
+    "medication": "Fluconazole STADA",
+    "concentration": "150mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033777_fluconazole_150mg_stada_1v_4732_624e_large_38eebb47c6.jpg",
+      "alt": "Thuốc Fluconazole Stada 150mg điều trị nhiễm nấm (1 vỉ x 1 viên)"
+    }
+  },
+  {
+    "medication": "Diflucan",
+    "concentration": "150mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002443_diflucan_5601_63d7_large_9257028dbb.jpg",
+      "alt": "Thuốc Diflucan 150mg Pfizer điều trị tình trạng nhiễm nấm (1 vỉ x 1 viên)"
+    }
+  },
+  {
+    "medication": "Clotrimazole",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_04980_135e8c9357.jpg",
+      "alt": "Viên đặt âm đạo Canesten 1 Day 500mg Bayer điều trị viêm âm đạo và cơ quan sinh dục ngoài (1 vỉ x 1 viên)"
+    }
+  },
+  {
+    "medication": "Silken Cream",
+    "concentration": "",
+    "dosage_form": "Kem bôi",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031306_dizigone_nano_bac_tuyp_25g_8953_633b_large_ca3fd63a8c.jpg",
+      "alt": "Kem bôi Dizigone Nano Bạc Terrapharm hỗ trợ kháng khuẩn, tái tạo da và ngăn ngừa sẹo (25g)"
+    }
+  },
+  {
+    "medication": "Cancreem",
+    "concentration": "10mg",
+    "dosage_form": "Kem bôi",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/canesten_5fg_9cca05fdd9.jpg",
+      "alt": "Kem bôi Canesten Cream 1% Bayer trị nấm da, nấm men, nấm mốc (5g)"
+    }
+  },
+  {
+    "medication": "Vadikoldy",
+    "concentration": "20mg",
+    "dosage_form": "Gel bôi",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "4. Thuốc kháng nấm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_00674_d8c0904027.jpg",
+      "alt": "Gel bôi ngoài da Nociceptol Gel Anti-Douleur Polidis giảm đau, nhức, mỏi cơ (120ml)"
+    }
+  },
+  {
+    "medication": "Quinine Sulfate",
+    "concentration": "500mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "5. Thuốc chống sốt rét và bội nhiễm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00006232_d11693f658.jpg",
+      "alt": "Thuốc Quinine Sulphate 250mg Mekophar điều trị sốt rét (180 viên)"
+    }
+  },
+  {
+    "medication": "Mefloquine",
+    "concentration": "250mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "5. Thuốc chống sốt rét và bội nhiễm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00022384_metronidazol_250mg_hataphar_50x10_1677_60b9_large_1519d5390c.jpg",
+      "alt": "Viên nén Metronidazol 250mg Hataphar điều trị các chứng nhiễm khuẩn, viêm lợi (50 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Chloroquine",
+    "concentration": "250mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "5. Thuốc chống sốt rét và bội nhiễm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00001974_cloroquin_phosphat_250mg_6271_6094_large_1e3ada9d56.jpg",
+      "alt": "Thuốc Cloroquin Phosphat 250mg Mekophar phòng ngừa hoặc điều trị sốt rét cấp tính (200 viên)"
+    }
+  },
+  {
+    "medication": "Artemether",
+    "concentration": "40mg",
+    "dosage_form": "Dung dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "5. Thuốc chống sốt rét và bội nhiễm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033705_drotaverine_40mg_stada_5x10_6850_6243_large_e62a7f72db.jpg",
+      "alt": "Thuốc Drotaverine Stada 40mg điều trị co thắt dạ dày, ruột, hội chứng ruột kích thích (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Artesunate",
+    "concentration": "60mg",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "5. Thuốc chống sốt rét và bội nhiễm",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/asbunyl_2b1215f251.jpg",
+      "alt": "Siro Asbunyl OPV điều trị ho do hen phế quản, viêm phế quản, khí phế thủng (60ml)"
+    }
+  },
+  {
+    "medication": "Fluoxetine",
+    "concentration": "20mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "6. Thuốc chống viêm corticosteroid",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/fluotin_2b4520e85c.jpg",
+      "alt": "Thuốc Fluotin 20 Stella hỗ trợ chống trầm cảm, chống rối loạn xung lực cưỡng bức (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Prednisolone",
+    "concentration": "0,5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "6. Thuốc chống viêm corticosteroid",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031434_prednisolone_5mg_tvpharma_10x20_7135_6261_large_9f4c680b94.jpg",
+      "alt": "Thuốc Prednisolone 5mg TV.Pharm chống viêm, chống dị ứng và ức chế miễn dịch (10 vỉ x 20 viên)"
+    }
+  },
+  {
+    "medication": "Dexamethasone",
+    "concentration": "0,5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "6. Thuốc chống viêm corticosteroid",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_07299_2d1cc89a93.jpg",
+      "alt": "Kem bôi da Dexamethasone/Chloramphenicol điều trị chàm, vết côn trùng cắn, viêm da tiếp xúc (8g)"
+    }
+  },
+  {
+    "medication": "Hydrocortisone",
+    "concentration": "10mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "6. Thuốc chống viêm corticosteroid",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00001019_axcel_hydrocortisone_cream_15g_5496_5b35_large_cd9f34e1a6.JPG",
+      "alt": "Kem bôi Axcel Hydrocortisone Cream điều trị dị ứng ngoài da, viêm da tiếp xúc (15g)"
+    }
+  },
+  {
+    "medication": "Betamethasone",
+    "concentration": "0,5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "6. Thuốc chống viêm corticosteroid",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00004804_mekocetin_05mg_9825_5bce_large_3583f1d2b9.JPG",
+      "alt": "Thuốc Mekocetin 0.5mg Mekophar điều trị thấp khớp, bệnh collagen, bệnh ngoài da, dị ứng (5 vỉ x 20 viên) "
+    }
+  },
+  {
+    "medication": "Nexospiron",
+    "concentration": "50mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "7. Thuốc lợi tiểu",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00007830_verospiron_50mg_5976_5af9_large_8cd0621a43.JPG",
+      "alt": "Thuốc Verospiron 50mg Gedeon điều trị tăng huyết áp (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Furosemide",
+    "concentration": "40mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "7. Thuốc lợi tiểu",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00003212_furosemide_40mg_5407_5bc6_large_f357f017f5.JPG",
+      "alt": "Thuốc Furosemide Stada 40mg điều trị phù, tăng huyết áp (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Furosemide",
+    "concentration": "40mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "7. Thuốc lợi tiểu",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00003212_furosemide_40mg_5407_5bc6_large_f357f017f5.JPG",
+      "alt": "Thuốc Furosemide Stada 40mg điều trị phù, tăng huyết áp (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Thiazides",
+    "concentration": "25mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "7. Thuốc lợi tiểu",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00006938_stugeron_25mg_2711_63db_large_1142bb5bc1.jpg",
+      "alt": "Thuốc Stugeron Janssen điều trị rối loạn tuần hoàn não (25 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Domeven",
+    "concentration": "25mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "7. Thuốc lợi tiểu",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/domvever_25mg_77938e79c6.jpg",
+      "alt": "Thuốc Domever 25mg Domesco điều trị suy tim sung huyết (2 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Yumagel",
+    "concentration": "15ml",
+    "dosage_form": "Hỗn dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1552_f6fe14d42c.jpg",
+      "alt": "Hỗn dịch uống Yumangel Yuhan kháng acid và cải thiện loét dạ dày - tá tràng (20 gói x 15ml) "
+    }
+  },
+  {
+    "medication": "Phosphalugel",
+    "concentration": "20g",
+    "dosage_form": "Hỗn dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1939_20634f5dd7.jpg",
+      "alt": "Hỗn dịch uống Phosphalugel Sanofi giảm độ axit của dạ dày (26 gói x 20g)"
+    }
+  },
+  {
+    "medication": "Yumagel F",
+    "concentration": "15ml",
+    "dosage_form": "Hỗn dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_3988_ad187a9176.jpg",
+      "alt": "Hỗn dịch uống Yumangel F Yuhan kháng acid và cả thiện loét dạ dày - tá tràng (20 gói x 15ml) "
+    }
+  },
+  {
+    "medication": "Mepraz",
+    "concentration": "20mg",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00018277_mepraz_20mg_sanofi_4x7_7212_5b87_large_ce3397e3ff.JPG",
+      "alt": "Viên nang cứng Mepraz 20mg Sanofi điều trị trào ngược dạ dày thực quản (4 vỉ x 7 viên)"
+    }
+  },
+  {
+    "medication": "Cimetidine",
+    "concentration": "300mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00001871_cimetidine_300mg_2128_5b95_large_b6627c7fc6.JPG",
+      "alt": "Thuốc Cimetidine MKP 300mg Mekophar điều trị ngắn hạn loét dạ dày, tá tràng tiến triển (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Drotaverine",
+    "concentration": "40mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033705_drotaverine_40mg_stada_5x10_6850_6243_large_e62a7f72db.jpg",
+      "alt": "Thuốc Drotaverine Stada 40mg điều trị co thắt dạ dày, ruột, hội chứng ruột kích thích (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Hyoscine",
+    "concentration": "10mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/dorodipin_8029b06c24.jpg",
+      "alt": "Thuốc Dorodipin 10mg Domesco điều trị tăng huyết áp, dự phòng cơn đau thắt ngực (1 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Papaverine",
+    "concentration": "40mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033705_drotaverine_40mg_stada_5x10_6850_6243_large_e62a7f72db.jpg",
+      "alt": "Thuốc Drotaverine Stada 40mg điều trị co thắt dạ dày, ruột, hội chứng ruột kích thích (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Alverine",
+    "concentration": "60mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503077_spas_agi_60mg_agimexpharm_6x10_4609_63b6_large_603848c0be.jpg",
+      "alt": "Thuốc Spas-agi 60 Agimexpharm điều trị chống đau do co thắt cơ trơn (60 viên)"
+    }
+  },
+  {
+    "medication": "Mebeverine",
+    "concentration": "135mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_00080_596bafb22c.jpg",
+      "alt": "Thuốc Spamerin 135mg Abbott điều trị hội chứng ruột kích thích, đau bụng và đau quặn bụng, tiêu chảy (30 viên)"
+    }
+  },
+  {
+    "medication": "Ambroxol",
+    "concentration": "30mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_7303_94e47c612d.jpg",
+      "alt": "Thuốc SP Ambroxol 30mg điều trị các bệnh cấp và mạn tính ở đường hô hấp (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Bromhexine",
+    "concentration": "8mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00030940_bromhexine_at_60ml_4410_60d2_large_c39992e259.jpg",
+      "alt": "Dung dịch uống Bromhexine AT loãng đờm trong nhiễm khuẩn đường hô hấp (60ml)"
+    }
+  },
+  {
+    "medication": "Maalox",
+    "concentration": "",
+    "dosage_form": "Viên nhai",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00005497_ohno_5130_5b0f_large_428238eee3.JPG",
+      "alt": "Viên nhai OH NO Việt Phúc hỗ trợ cai nghiện thuốc lá (1 lọ x 12 viên)"
+    }
+  },
+  {
+    "medication": "Gastropulgite",
+    "concentration": "",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00003275_gastropulgite_25g_1647_5bbd_large_6f6ce27fae.JPG",
+      "alt": "Bột Gastropulgite Ipsen điều trị rối loạn thực quản, dạ dày, tá tràng (30 gói)"
+    }
+  },
+  {
+    "medication": "Phosphalugel",
+    "concentration": "",
+    "dosage_form": "Gel",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1939_20634f5dd7.jpg",
+      "alt": "Hỗn dịch uống Phosphalugel Sanofi giảm độ axit của dạ dày (26 gói x 20g)"
+    }
+  },
+  {
+    "medication": "Tums",
+    "concentration": "500mg",
+    "dosage_form": "Viên nhai",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00027611_myantacid_ii_tvpharm_10x10_7016_60b9_large_9a92b33254.jpg",
+      "alt": "Viên nhai Myantacid-II TV.Pharm điều trị loét dạ dày - tá tràng, viêm dạ dày (10 vỉ x 10 viên) "
+    }
+  },
+  {
+    "medication": "Gaviscon",
+    "concentration": "",
+    "dosage_form": "Hỗn dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00016534_gaviscon_dual_action_24_goi_x_10ml_9446_63ab_large_cea99ca16b.jpg",
+      "alt": "Hỗn dịch Gaviscon Dual Action Reckitt Benckiser điều trị trào ngược dạ dày, thực quản (24 gói x 10ml)"
+    }
+  },
+  {
+    "medication": "Forlax",
+    "concentration": "10g",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_2998_2ca723c5c2.jpg",
+      "alt": "Bột Forlax Ipsen điều trị táo bón (20 gói)"
+    }
+  },
+  {
+    "medication": "Duphalac",
+    "concentration": "667g",
+    "dosage_form": "Dung dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_3024_cdf18ad630.jpg",
+      "alt": "Duphalac (Lactulose) điều trị táo bón hiệu quả và tăng cường lợi khuẩn ruột (20 gói x 15ml)"
+    }
+  },
+  {
+    "medication": "Bisacodyl",
+    "concentration": "5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1770_f7e7588544.jpg",
+      "alt": "Thuốc Bisalaxyl Vidipha điều trị táo bón (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Smecta",
+    "concentration": "3g",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1718_1ac3c4cfae.jpg",
+      "alt": "Thuốc bột pha hỗn dịch uống Smecta vị cam điều trị tiêu chảy (30 gói x 3g)"
+    }
+  },
+  {
+    "medication": "Hidrasec",
+    "concentration": "30mg",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00003747_hidrasec_100mg_goi_6374_5b05_large_8991981c08.JPG",
+      "alt": "Thuốc bột Hidrasec 10mg điều trị tiêu chảy cấp ở trẻ (16 gói)"
+    }
+  },
+  {
+    "medication": "Lactobacillus",
+    "concentration": "1g",
+    "dosage_form": "Bột",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_03121_abe78bcebb.jpg",
+      "alt": "Thực phẩm bảo vệ sức khỏe Antibio Pro hỗ trợ bổ sung lợi khuẩn lactobacillus (20 gói x 1g)"
+    }
+  },
+  {
+    "medication": "Loperamid Admixpharm",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00004537_loperamid_2mg_nadyphar_3799_5b42_large_4998686a50.JPG",
+      "alt": "Viên nang cứng Loperamid 2mg Nadyphar điều trị triệu chứng tiêu chảy cấp tính và mạn tính (10 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Smecta Go",
+    "concentration": "3g",
+    "dosage_form": "Hỗn dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "8. Thuốc tiêu hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/IMG_1718_1ac3c4cfae.jpg",
+      "alt": "Thuốc bột pha hỗn dịch uống Smecta vị cam điều trị tiêu chảy (30 gói x 3g)"
+    }
+  },
+  {
+    "medication": "Diazepam",
+    "concentration": "5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "9. Thuốc tác động hệ thần kinh",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031326_anepzil_5mg_agimexphar_3x10_9985_6127_large_f6a2af3eda.png",
+      "alt": "Thuốc Anepzil 5mg Agimexpharm điều trị triệu chứng suy giảm trí nhớ (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Lorazepam",
+    "concentration": "1mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "9. Thuốc tác động hệ thần kinh",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00006385_risperdal_1mg_6660_5c17_large_f44b07afa1.JPG",
+      "alt": "Thuốc Risperdal 1mg Janssen điều trị bệnh tâm thần phân liệt (6 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Zolpidem",
+    "concentration": "10mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "9. Thuốc tác động hệ thần kinh",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00020167_olangim_10mg_agimexpharm_5x10_9343_60a1_large_19f540c86c.png",
+      "alt": "Viên nén Olangim 10mg Agimexpharm điều trị tâm thần phân liệt (5 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Clonazepam",
+    "concentration": "2mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "9. Thuốc tác động hệ thần kinh",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00004811_mekopora_2mg_4088_5b91_large_93a7933c57.JPG",
+      "alt": "Viên nén Mekopora 2mg Mekophar điều trị viêm mũi, viêm kết mạc, mày đay (2 vỉ x 15 viên)"
+    }
+  },
+  {
+    "medication": "Midazolam",
+    "concentration": "7,5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "9. Thuốc tác động hệ thần kinh",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00033638_meloxicam_75mg_khapharco_200v_7366_6239_large_5f4ba0c5f6.jpg",
+      "alt": "Viên nén Meloxicam 7.5mg Khapharco điều trị thoái hóa khớp, viêm cột sống dính khớp (200 viên)"
+    }
+  },
+  {
+    "medication": "Amiodarone",
+    "concentration": "100mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "10. Thuốc tim mạch",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00018357_uperio_100mg_novartis_2x14_8777_607d_large_fbc31a98b2.jpg",
+      "alt": "Thuốc Uperio 100mg Novartis điều trị suy tim (2 vỉ x 14 viên)"
+    }
+  },
+  {
+    "medication": "Lidocaine",
+    "concentration": "2%",
+    "dosage_form": "Dung dịch",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "10. Thuốc tim mạch",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00017365_lidocain_kabi_2_100_ong_x_2ml_bidiphar_3141_6080_large_00091a1275.jpg",
+      "alt": "Dung dịch tiêm Lidocain Kabi 2% dùng để gây tê tại chỗ (100 ống x 2ml)"
+    }
+  },
+  {
+    "medication": "Flecainide",
+    "concentration": "100mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "10. Thuốc tim mạch",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/22_d703287e8a.png",
+      "alt": "Thuốc Demencur 100 DaviPharm điều trị đau thần kinh trung ương và ngoại vi (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Sotalol",
+    "concentration": "80mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "10. Thuốc tim mạch",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_03394_e628d9caee.jpg",
+      "alt": "Thuốc Valsartan-MV 80mg USP điều trị bệnh tăng huyết áp và suy tim (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Propafenone",
+    "concentration": "150mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "10. Thuốc tim mạch",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002443_diflucan_5601_63d7_large_9257028dbb.jpg",
+      "alt": "Thuốc Diflucan 150mg Pfizer điều trị tình trạng nhiễm nấm (1 vỉ x 1 viên)"
+    }
+  },
+  {
+    "medication": "Alendronate",
+    "concentration": "70mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00021986_alenbe_70mg_hasan_2x2_7043_60c6_large_8610dbe511.jpg",
+      "alt": "Thuốc Alenbe 70mg Hasan điều trị loãng xương (2 vỉ x 2 viên)"
+    }
+  },
+  {
+    "medication": "Risedronate",
+    "concentration": "35mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002134_cruzz_35mg_4250_5ba0_large_f4e4b102bf.JPG",
+      "alt": "Thuốc Cruzz-35 Davi Pharm phòng ngừa và điều trị loãng xương (1 vỉ x 4 viên)"
+    }
+  },
+  {
+    "medication": "Diane-35",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002402_diane_35_8049_62a6_large_5f6208c25c.jpg",
+      "alt": "Thuốc Diane 35 Bayer điều trị mụn trứng cá mức độ vừa đến nặng (1 vỉ x 21 viên)"
+    }
+  },
+  {
+    "medication": "Duphaston",
+    "concentration": "10mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00002659_duphaston_6625_63ab_large_9ea20e6d07.jpg",
+      "alt": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên)"
+    }
+  },
+  {
+    "medication": "Orgametril",
+    "concentration": "5mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/orga_07290f2128.jpg",
+      "alt": "Viên nén Orgametril 5mg MSD điều trị đa kinh, rong kinh, rong huyết (1 vỉ x 30 viên)"
+    }
+  },
+  {
+    "medication": "Le Ana Cream",
+    "concentration": "",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/DSC_08337_b07e006ba5.jpg",
+      "alt": "Kem Alvextra Skin Hydrating Cream Tanida dưỡng ẩm da tay, gót chân, giảm sạm da, vết thâm nám (50g)"
+    }
+  },
+  {
+    "medication": "Macca F",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "11. Thuốc nội tiết và chuyển hóa",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00028718_maca_m_male_power_60v_7335_5f62_large_ee96a5fd36.JPG",
+      "alt": "Viên uống Maca M Male Power hỗ trợ bổ thận, tráng dương (60 viên)"
+    }
+  },
+  {
+    "medication": "Long huyết P/H",
+    "concentration": "",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00031438_losarlife_h_50125_eurolife_3x10_1715_60f8_large_79072d63c0.jpg",
+      "alt": "Viên nén Losarlife-H 50mg/12.5mg Eurolife điều trị cao huyết áp (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Mộc hoa trang H",
+    "concentration": "",
+    "dosage_form": "Viên nén, bao phim",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00503584_thanh_duong_trang_da_tri_nam_transino_whitening_stick_52g_1017_6411_large_c4018d2d4b.jpg",
+      "alt": "Thanh dưỡng trắng da Transino Whitening Stick (5,3g)"
+    }
+  },
+  {
+    "medication": "Ampelop",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00000744_ampelop_ho_tro_dieu_tri_viem_loet_da_day_9396_5af9_large_aba8f8c978.JPG",
+      "alt": "Thuốc Ampelop 625mg Traphaco điều trị viêm loét dạ dày, hành tá tràng (9 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Parafon",
+    "concentration": "",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00032025_paralmax_500mg_boston_pharmaceutical_10x12_4736_6315_large_58dd57c77f.jpg",
+      "alt": "Viên nén Paralmax 500mg Boston điều trị đau từ nhẹ đến vừa, đau đầu, đau răng (10 vỉ x 12 viên) "
+    }
+  },
+  {
+    "medication": "Tobonin",
+    "concentration": "40mg",
+    "dosage_form": "Viên nén",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00006838_3f5e134d5c.jpg",
+      "alt": "Thuốc Spasmomen Menarini điều trị hội chứng đại tràng kích thích (3 vỉ x 10 viên)"
+    }
+  },
+  {
+    "medication": "Tuần hoàn não Thái Dương",
+    "concentration": "",
+    "dosage_form": "Viên nang",
+    "category": "Danh mục thuốc theo nhóm tác dụng",
+    "subcategory": "12. Thuốc thảo dược",
+    "image": {
+      "src": "https://cdn.nhathuoclongchau.com.vn/unsafe/2560x0/filters:quality(90)/https://cms-prod.s3-sgn09.fptcloud.com/00012428_tuan_hoan_nao_thai_duong_4477_5b98_large_0c9553f4b5.JPG",
+      "alt": "Thuốc Tuần Hoàn Não Thái Dương hỗ trợ điều trị thiểu năng tuần hoàn não (2 vỉ x 6 viên)"
+    }
+  }
+]
